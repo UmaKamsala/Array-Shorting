@@ -1,0 +1,2 @@
+# Array-Shorting
+shortArray program
